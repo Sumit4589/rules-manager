@@ -1,0 +1,6 @@
+server:
+   port: 8080
+kmodule:
+   file: 
+     classPath : META-INF\kmodule.xml
+     completePath: D:\my projs\rules-manager\src\main\resources\META-INF\kmodule.xml
